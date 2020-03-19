@@ -1,0 +1,6 @@
+E:\Tugas Perkuliahan\Visual Studi\Tugasclassdanobjek\Tugasclassdanobjek\obj\Debug\Tugasclassdanobjek.csprojAssemblyReference.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugasclassdanobjek\Tugasclassdanobjek\bin\Debug\Tugasclassdanobjek.exe.config
+E:\Tugas Perkuliahan\Visual Studi\Tugasclassdanobjek\Tugasclassdanobjek\bin\Debug\Tugasclassdanobjek.exe
+E:\Tugas Perkuliahan\Visual Studi\Tugasclassdanobjek\Tugasclassdanobjek\bin\Debug\Tugasclassdanobjek.pdb
+E:\Tugas Perkuliahan\Visual Studi\Tugasclassdanobjek\Tugasclassdanobjek\obj\Debug\Tugasclassdanobjek.exe
+E:\Tugas Perkuliahan\Visual Studi\Tugasclassdanobjek\Tugasclassdanobjek\obj\Debug\Tugasclassdanobjek.pdb
